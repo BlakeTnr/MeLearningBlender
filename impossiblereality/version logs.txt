@@ -1,0 +1,13 @@
+v1
+the original
+
+v2
+-Unity file added. Thanks @RedOfPaw
+-WATCH ME FIRST converted to .mp4 for easier viewing
+-reference sequence added to make sure your animation looks correct in your program
+-FAQ sheet removed and replaced with a link to #🎒-faq
+
+v3
+-Camera placement in Unreal Engine file fixed
+-Houdini duplicate project file deleted to save space
+-version logs added
