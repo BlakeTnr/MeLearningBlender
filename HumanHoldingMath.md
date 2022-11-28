@@ -122,6 +122,19 @@ simplifes...
 (positionOfBigger-positionOfSmaller)*relativeSize+positionOfBigger=positionOfBiggerOfBigger
 (x-x2)*relsize+x
 
+# Going small
+relsize: 13.812154696132596685082872928177
+
+0,0,0
+
+0.04393,-0.524165,0.8783
+
+0.047110532,-0.562114546,0.94188892
+
+0.0473408025168,-0.5648620931304,0.946492757808
+
+0.04735747410221632,-0.565061015542641,0.9468260756652992
+
 
 ## Idea/Thought process
 The thought process is that if you take the
