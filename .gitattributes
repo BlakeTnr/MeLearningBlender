@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 HumanHolding.blend filter=lfs diff=lfs merge=lfs -text
+Mountain.blend filter=lfs diff=lfs merge=lfs -text
+Mountain.blend1 filter=lfs diff=lfs merge=lfs -text
